@@ -1,0 +1,8 @@
+EXECUTING
+ECHO START
+ECHO THIS IS THE TEST BATCH FILE,THIS WILL BE CALLED FROM ANT BUILD SCRIPTS
+ECHO PRESS 1 or 2 to select your task, or 3 to EXIT.
+ECHO ...............................................
+ECHO BEFORE
+ECHO END
+ECHO **********DONE EXECUTING SHELL SCRIPT*****
