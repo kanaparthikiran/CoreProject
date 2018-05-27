@@ -9,7 +9,7 @@ import com.mysql.jdbc.log.Log;
  */
 
 /**
- * @author kikanapa
+ * @author Kiran
  *
  */
 public class BRTest {
@@ -20,11 +20,6 @@ public class BRTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-
-		
-	
 		
 		for(int i=0;i<100;i++) {
 			
