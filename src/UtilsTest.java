@@ -10,9 +10,9 @@ import org.hibernate.SQLQuery;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.cisco.np6.entity.City;
-import com.cisco.np6.entity.Street;
-import com.cisco.np6.util.HibernateUtil;
+import com.objectlinx.entity.City;
+import com.objectlinx.entity.Street;
+import com.objectlinx.util.HibernateUtil;
 
 
 
